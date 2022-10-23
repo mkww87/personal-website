@@ -46,20 +46,6 @@
       "highlights": []
     }
   ],
-  "education": [
-    {
-      "institution": "De Anza College",
-      "area": "Computer Science",
-      "studyType": "Assocaite",
-      "startDate": "Fall 2020",
-      "endDate": "Spring 2024",
-      "courses": [
-        "Object Oriented Programming",
-        "Network Security",
-        "Data Abstraction and Structures",
-      ]
-    }
-  ],
   "skills": [
     {
       "name": "AWS",
@@ -120,7 +106,7 @@
       "name": "AWS Certified Solutions Architect Associate",
       "issuer": "Amazon Web Services Training and Certification",
       "url": "https://www.credly.com/",
-      "x_badgeId": "263d35c5-83db-4f93-97a4-a84ee806da90",
+      "x_badgeId": "",
       "x_imageId": "0e284c3f-5164-4b21-8660-0d84737941bc",
       "x_imageName": "image.png"
     },
@@ -128,7 +114,7 @@
       "name": "HashiCorp Certified: Terraform Associate",
       "issuer": "HashiCorp",
       "url": "https://www.credly.com/",
-      "x_badgeId": "b5c9ee11-de03-482b-8b74-71c4eba299cf",
+      "x_badgeId": "",
       "x_imageId": "99289602-861e-4929-8277-773e63a2fa6f",
       "x_imageName": "image.png"
     },
@@ -136,7 +122,7 @@
       "name": "Certified Kubernetes Application Developer",
       "issuer": "The Linux Foundation",
       "url": "https://www.credly.com/",
-      "x_badgeId": "3b4c4056-b736-4a9b-bcad-5a8457ef72e1",
+      "x_badgeId": "",
       "x_imageId": "f88d800c-5261-45c6-9515-0458e31c3e16",
       "x_imageName": "ckad_from_cncfsite.png"
     }
