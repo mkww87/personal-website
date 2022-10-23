@@ -1,90 +1,39 @@
 {
   "basics": {
-    "name": "José Coelho",
+    "name": "Mark Wilson",
     "label": "Cloud Engineer",
     "picture": "images/jcoelho.webp",
     "x_pictureFallback": "images/jcoelho.jpg",
     "x_title": "Hey There! Glad you're here",
-    "summary": "Going on 7 years of experience in Software engineering. I'm currently working as a cloud engineer exploring the AWS world. I’m interested in building distributed, cloud native applications, service management, monitoring and site reliability engineering.",
+    "summary": "I have over a year of experience in IT. I am currently working towards an Associates degree in Computer Science and my goal is to transfer to a 4-year college. I am interested in software engineering, cloud, and automation.",
     "location": {
-      "country": "Portugal",
-      "countryCode": "PT",
-      "region": "Porto"
+      "country": "United States",
+      "countryCode": "US",
+      "region": "San Luis Obispo"
     },
     "profiles": [
       {
-        "network": "DEV Community",
-        "username": "jcoelho",
-        "url": "https://dev.to/jcoelho",
-        "x_icon": "fab fa-2x fa-dev"
-      },
-      {
         "network": "LinkedIn",
-        "username": "josecoelho93",
-        "url": "https://www.linkedin.com/in/josecoelho93",
+        "username": "mkww87",
+        "url": "https://www.linkedin.com/in/mkww87",
         "x_icon": "fab fa-2x fa-linkedin"
       },
       {
         "network": "GitHub",
-        "username": "jcoelho93",
-        "url": "https://github.com/jcoelho93",
+        "username": "mkww87",
+        "url": "https://github.com/mkww87",
         "x_icon": "fab fa-2x fa-github"
       }
     ]
   },
   "work": [
     {
-      "company": "feedzai",
-      "position": "Software Engineer",
-      "website": "https://feedzai.com",
-      "startDate": "2021-04-26",
-      "endDate": "",
-      "summary": "The first startup in my professional path, feedzai - a Unicorn 🦄 - fighting financial crime and fraude",
-      "highlights": []
-    },
-    {
-      "company": "Self-employed",
-      "position": "Software development consultant",
-      "website": "https://jcoelho93.netlify.com",
-      "startDate": "2021-01-15",
-      "endDate": "",
-      "summary": "Started working for myself, providing expertise on software development and DevOps culture and best practices for international startups.",
-      "highlights": []
-    },
-    {
-      "company": "Bosch",
-      "position": "DevOps Engineer for automated driving",
-      "website": "https://www.bosch.hu",
-      "startDate": "2019-10-15",
-      "endDate": "2020-10-10",
-      "summary": "Joined the Athena project, a Bosch & Daimler effort to bring a level 4 autonomous car to the streets.",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "DevOps Engineer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2018-04-01",
-      "endDate": "2019-08-30",
-      "summary": "Joined Asseco PST DevOps team to help them deliver happiness to their customers",
-      "highlights": []
-    },
-    {
-      "company": "Asseco PST",
-      "position": "Backend Developer",
-      "website": "https://www.pst.asseco.com",
-      "startDate": "2017-08-16",
-      "endDate": "",
-      "summary": "Started my first professional developer experience as a Backend Developer for Asseco PST",
-      "highlights": []
-    },
-    {
-      "company": "European GNSS Agency",
-      "position": "IT Support Technician",
-      "website": "https://www.gsa.europea.eu",
-      "startDate": "2016-05-01",
-      "endDate": "",
-      "summary": "Moved to Prague, Czech Republic to intern for the European Commission helping them build one of the biggest european projects, Galileo Satellite System",
+      "company": "Scientific Drilling",
+      "position": "IT Specialist",
+      "website": "https://scientificdrilling.com/",
+      "startDate": "08-09-2021",
+      "endDate": "Present",
+      "summary": "Providing level one help desk and device deployments.",
       "highlights": []
     },
     {
@@ -99,16 +48,15 @@
   ],
   "education": [
     {
-      "institution": "University of Madeira",
-      "area": "Computer Engineering",
-      "studyType": "Bachelor",
-      "startDate": "2011-09-15",
-      "endDate": "2019-06-07",
+      "institution": "De Anza College",
+      "area": "Computer Science",
+      "studyType": "Assocaite",
+      "startDate": "Fall 2020",
+      "endDate": "Spring 2024",
       "courses": [
         "Object Oriented Programming",
-        "Database Management Systems",
-        "Operating systems and computers architectures",
-        "Requirements Engineering"
+        "Network Security",
+        "Data Abstraction and Structures",
       ]
     }
   ],
@@ -157,18 +105,21 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent speaker"
-    },
-    {
-      "language": "Portuguese",
       "fluency": "Native speaker"
     }
   ],
   "certificates": [
     {
+      "name": "Red Hat Certified Systems Administrator (in-progress)",
+      "issuer": "Red Hat",
+      "url": "https://www.credly.com/",
+      "x_imageId": "572de0ba-2c59-4816-a59d-b0e1687e45ee",
+      "x_imageName": "image.png"
+    },
+    {
       "name": "AWS Certified Solutions Architect Associate",
       "issuer": "Amazon Web Services Training and Certification",
-      "url": "https://www.credly.com/badges/263d35c5-83db-4f93-97a4-a84ee806da90/public_url",
+      "url": "https://www.credly.com/",
       "x_badgeId": "263d35c5-83db-4f93-97a4-a84ee806da90",
       "x_imageId": "0e284c3f-5164-4b21-8660-0d84737941bc",
       "x_imageName": "image.png"
@@ -176,7 +127,7 @@
     {
       "name": "HashiCorp Certified: Terraform Associate",
       "issuer": "HashiCorp",
-      "url": "https://www.credly.com/badges/b5c9ee11-de03-482b-8b74-71c4eba299cf/public_url",
+      "url": "https://www.credly.com/",
       "x_badgeId": "b5c9ee11-de03-482b-8b74-71c4eba299cf",
       "x_imageId": "99289602-861e-4929-8277-773e63a2fa6f",
       "x_imageName": "image.png"
@@ -184,7 +135,7 @@
     {
       "name": "Certified Kubernetes Application Developer",
       "issuer": "The Linux Foundation",
-      "url": "https://www.credly.com/badges/3b4c4056-b736-4a9b-bcad-5a8457ef72e1/public_url",
+      "url": "https://www.credly.com/",
       "x_badgeId": "3b4c4056-b736-4a9b-bcad-5a8457ef72e1",
       "x_imageId": "f88d800c-5261-45c6-9515-0458e31c3e16",
       "x_imageName": "ckad_from_cncfsite.png"
@@ -192,19 +143,19 @@
   ],
   "interests": [
     {
-      "name": "Travel bug",
-      "x_icon": "fa-globe-africa"
+      "name": "Travelling",
+      "x_icon": "fa-globe-europe"
     },
     {
-      "name": "Dog lover",
+      "name": "Pet lover",
       "x_icon": "fa-dog"
     },
     {
-      "name": "Foodie",
-      "x_icon": "fa-utensils"
+      "name": "Hiking",
+      "x_icon": "fa-mountain"
     },
     {
-      "name": "Live in the now",
+      "name": "Continuous Self-Improvement",
       "x_icon": "fa-brain"
     }
   ]
